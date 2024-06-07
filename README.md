@@ -31,4 +31,17 @@ d) Staged -     changes which are saved, and pushed to the root app via git comm
 
 8) To see all these changes on the remote app use command - git push origin main
 
+# What if you made a folder in your device first, and then you wanna push it on github?
+9) For folder which you made in your device first and now it should be availabe on github for that use command - gitint
+
+10) For pushing folder on github, make a new repo on github. Then run command - git remote add origin <link>
+
+11) For verification of the folder link, use command - git remote -v
+
+12) Now, use the same push command.
+
+13) For ex: you made changes directly on github, then you have to pull those changes in Git use command - git pull origin main
+
+
+
 
