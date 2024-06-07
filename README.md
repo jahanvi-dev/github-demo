@@ -4,7 +4,7 @@ Commit: here shows, how many times you've made changes in the repo. The moment y
 
 
 # 👉 Now,
-The changes from here are all committed from the VS Editor using Git.
+The changes you are seeing here onwards are all committed from the VS Editor using Git.
 
 
 # ➡️ Let's talk about some basic Git Commands :
